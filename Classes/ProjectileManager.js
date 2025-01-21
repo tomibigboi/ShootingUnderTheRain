@@ -1,0 +1,6 @@
+class ProjectileManager {
+    constructor() 
+    {
+        
+    }
+}
